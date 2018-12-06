@@ -1,0 +1,5 @@
+操作系统：windows
+JDK: 1.8
+jre: 1.8
+
+使用java -jar xxxxx.jar命令打开可以在控制看具体的后台信息
