@@ -3,3 +3,10 @@ fileBox为上传文件的缓存区
 
 用户名：root
 密码：1234
+
+
+对于是否已经上传 可登录ftp查看
+ip：159.65.136.29 
+port: 6630
+user: xiaobai
+password: 1234
