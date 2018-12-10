@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="自动备份工具1.2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/1_2_jar</output-path>
+    <root id="root">
+      <element id="archive" name="自动备份工具1.0.jar">
+        <element id="module-output" name="自动备份工具1.0" />
+      </element>
+      <element id="directory" name="libs">
+        <element id="file-copy" path="$PROJECT_DIR$/include/bcprov-jdk14-1.48.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/include/commons-codec-1.6.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/include/commons-logging-1.1.3.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/include/httpclient-4.3.3.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/include/httpcore-4.3.2.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/include/httpmime-4.3.6.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/include/java-json.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/include/mysql-connector-java-5.1.47-bin.jar" />
+      </element>
+      <element id="directory" name="icons">
+        <element id="dir-copy" path="$PROJECT_DIR$/icons" />
+      </element>
+      <element id="directory" name="prikey">
+        <element id="dir-copy" path="$PROJECT_DIR$/prikey" />
+      </element>
+      <element id="directory" name="fileBox" />
+    </root>
+  </artifact>
+</component>
